@@ -3,7 +3,7 @@
   Apenas um exemplo de uma pilha simples encadeada.
   
   Possui as funções: 
-  Push() e Pop(), isEmpity() e Top();
+  Push() e Pop(), isEmpty() e Top();
   
     IsEmpity() - para verificar se o topo é null ( em outras palavras, se existe ou não elemento na pilha);
   
